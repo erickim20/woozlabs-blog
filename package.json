@@ -12,12 +12,12 @@
     "@woozdesign/icons": "^1.1.0",
     "@woozdesign/ui": "^1.2.0-alpha.6",
     "katex": "^0.16.9",
-    "next": "13.5.4",
+    "next": "^13.5.11",
     "notion-client": "^6.16.0",
     "prismjs": "^1.29.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-notion-x": "^6.16.0"
+    "react-notion-x": "^7.8.2"
   },
   "devDependencies": {
     "@types/node": "^20",
