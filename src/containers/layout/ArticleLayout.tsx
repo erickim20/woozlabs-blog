@@ -4,7 +4,6 @@ import React, { FC, useEffect, useState } from 'react';
 
 // Models
 import { IArticle } from '@/models/article';
-import { ExtendedRecordMap } from 'notion-types';
 
 // Components
 // import NavigationBar from '@/components/navbar/NavigationBar';
@@ -35,7 +34,7 @@ interface ArticleLayoutProps {
   article: IArticle;
   nextArticle: IArticle | null;
   olderArticle: IArticle | null;
-  recordMap: ExtendedRecordMap;
+  recordMap: any;
 }
 
 const ArticleLayout: FC<ArticleLayoutProps> = ({ article, recordMap, nextArticle, olderArticle }) => {
