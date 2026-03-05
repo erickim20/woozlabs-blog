@@ -21,13 +21,13 @@ const AppBar: FC<AppBarProps> = ({}) => {
         </WoozAppBar.Header>
         <WoozAppBar.Action>
           <Flex align="center">
-            <Button href="https://drive.google.com/file/d/1emAD_0HPYez7rk18RHKi7YpNcy3bnRX1/view?usp=sharing" variant={'transparent'} color={'gray'} highContrast>
+            <Button href="https://drive.google.com/file/d/1q2nzUwoNaqyOIlQtB5r-XWDT3WvN9ZmW/view?usp=sharing" variant={'transparent'} color={'gray'} highContrast>
               Résumé
             </Button>
-            <IconButton href="https://github.com/leokim8012" variant={'transparent'} color={'gray'} highContrast>
+            <IconButton href="https://github.com/erickim20" variant={'transparent'} color={'gray'} highContrast>
               <Icon type={'Github'} />
             </IconButton>
-            <IconButton href="https://www.linkedin.com/in/leokim8012" variant={'transparent'} color={'gray'} highContrast>
+            <IconButton href="https://www.linkedin.com/in/erickim20" variant={'transparent'} color={'gray'} highContrast>
               <Icon type={'Linkedin2'} />
             </IconButton>
             <IconButton href="https://instagram.com/rhksdnrla" variant={'transparent'} color={'gray'} highContrast>
