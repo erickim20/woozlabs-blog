@@ -21,9 +21,9 @@ const AppBar: FC<AppBarProps> = ({}) => {
         </WoozAppBar.Header>
         <WoozAppBar.Action>
           <Flex align="center">
-            <Button href="https://drive.google.com/file/d/1q2nzUwoNaqyOIlQtB5r-XWDT3WvN9ZmW/view?usp=sharing" variant={'transparent'} color={'gray'} highContrast>
+            {/* <Button href="https://drive.google.com/file/d/1q2nzUwoNaqyOIlQtB5r-XWDT3WvN9ZmW/view?usp=sharing" variant={'transparent'} color={'gray'} highContrast>
               Résumé
-            </Button>
+            </Button> */}
             <IconButton href="https://github.com/erickim20" variant={'transparent'} color={'gray'} highContrast>
               <Icon type={'Github'} />
             </IconButton>
